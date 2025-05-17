@@ -1,6 +1,6 @@
 .panel {background: rgba(88, 94, 87, 0.8) !important;border: none !important;box-shadow: none !important;}
 .progress {background: none;}
 .progress-div {color: rgba(32, 35, 31, 0.80;}
-.progress-bar {background: rgba(231, 237, 229, 0.8);}
+.progress-bar {background: rgba(233, 246, 228, 0.8);}
 .chat_light {background: rgba(231, 237, 229, 0.8);text-align: center;border: 1px solid black;border-bottom: none;}
 .chat_dark {background: rgba(197, 203, 195, 0.8);}
